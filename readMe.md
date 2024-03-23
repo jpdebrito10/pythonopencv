@@ -1,4 +1,4 @@
-# Conceitos básicos e intermediários opencv
+# Projeto básico utilizando openCV 
 
 
 
